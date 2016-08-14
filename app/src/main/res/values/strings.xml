@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BookListing</string>
+    <string name="txt_no_data">Call AsyncTask Method and parse the Json response.Add the JsonResponse to ArrayList.Set the adapter to list</string>
+</resources>
